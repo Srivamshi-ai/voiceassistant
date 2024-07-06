@@ -21,7 +21,15 @@ To run this project, you need to have Python installed on your machine along wit
 - `wikipedia`
 - `datetime`
 
+can download the libraries using :
+
+`pip install -r requirements.txt`
+
 You can install the required libraries using pip:
 
 ```bash
-pip install SpeechRecognition pyaudio pyttsx3 wikipedia
+pip install SpeechRecognition pyaudio pyttsx3 wikipedia 
+
+
+
+
